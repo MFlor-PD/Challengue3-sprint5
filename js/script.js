@@ -1,3 +1,9 @@
+// Al actualizar la pagina se borran
+// No puedo configurar los botones de eliminar chiste individual
+// Falto el BONUS: ## BONUS: crear un botón para eliminar todos los elementos a la vez y/o un botón para eliminar uno a uno el elemento seleccionado 
+// (Manejador de click en los botones de eliminación (se eliminará desde el local storage como del DOM))
+
+
 const btn = document.getElementById("fetchJoke");
 const deleteBtn = document.getElementById("delete-btn");
 const ulJokeList = document.getElementById("jokeList");
